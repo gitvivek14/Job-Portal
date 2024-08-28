@@ -98,7 +98,7 @@
 <h2>How to Run the Application</h2>
 <ol>
     <li>Clone the repository:<br>
-    <pre>git clone https://github.com/your-username/job-portal-backend.git</pre>
+    <pre>git clone https://github.com/gitvivek14/Job-Portal.git</pre>
     <pre>cd Job-Portal</pre>
     </li>
     <li>Install dependencies:<br>
