@@ -99,7 +99,7 @@
 <ol>
     <li>Clone the repository:<br>
     <pre>git clone https://github.com/your-username/job-portal-backend.git</pre>
-    <pre>cd job-portal-backend</pre>
+    <pre>cd Job-Portal</pre>
     </li>
     <li>Install dependencies:<br>
     <pre>npm install</pre>
@@ -111,11 +111,11 @@
     </ul>
     </li>
     <li>Run the application:<br>
-    <pre>npm start</pre>
+    <pre>npm run  start</pre>
     </li>
 </ol>
 
-<p>The API will be accessible at <code>http://localhost:5000</code>.</p>
+<p>The API will be accessible at <code>http://localhost:4000</code>.</p>
 
 <h2>Database Schema (ER Diagram)</h2>
 <p>Here's a basic ER diagram representing the relationships between the entities in the database:</p>
