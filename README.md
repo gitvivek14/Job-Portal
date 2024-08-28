@@ -131,7 +131,7 @@
 
 
 <h2>Postman API Collection</h2>
-<p>You can find the Postman collection for testing all the API endpoints <a href= "">here</a>.</p>
+<p>You can find the Postman collection for testing all the API endpoints <a href= "https://www.postman.com/security-physicist-61325734/workspace/job-portal">here</a>.</p>
 
 <h2>Contributing</h2>
 <p>Feel free to fork this repository, submit issues, and pull requests. For major changes, please open an issue first to discuss what you would like to change.</p>
