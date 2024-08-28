@@ -13,10 +13,14 @@
 <h2>Features</h2>
 <ul>
     <li><strong>User Authentication & Authorization:</strong> Secure authentication using JWT tokens.</li>
+    <li><strong>User Profile Management:</strong> Users can create a profile, upload their latest resume, and edit their information, including education, experience, and projects.</li>
     <li><strong>Job Listings:</strong> CRUD operations for job listings with filters for location, job type, experience, and compensation.</li>
+    <li><strong>Job Browsing and Filtering:</strong> Users can view all available jobs and filter them based on various categories such as location, job type, job title, required years of experience, and compensation.</li>
+    <li><strong>Application Tracking:</strong> Users can view all the jobs they have applied to and manage their applications.</li>
+    <li><strong>Employer Profile Management:</strong> Employers can create profiles, add, view, edit, and delete job postings.</li>
+    <li><strong>Applicant Tracking for Employers:</strong> Employers can view all applicants for their job postings and filter applicants based on various criteria.</li>
+    <li><strong>Enhanced Filtering Categories:</strong> Enhanced job filtering capabilities by adding more intuitive categories to the job descriptions in the JSON file.</li>
     <li><strong>Resume Upload:</strong> Upload resumes to Cloudinary and associate them with user profiles.</li>
-    <li><strong>Profile Management:</strong> Manage user profiles, including updating resumes.</li>
-    <li><strong>Authorization:</strong> Employers can only edit or delete jobs they have posted.</li>
 </ul>
 
 <h2>API Endpoints</h2>
@@ -134,6 +138,10 @@
                              | employer (Foreign)|
                              +-----------------+
 </pre>
+
+
+<h2>Postman API Collection</h2>
+<p>You can find the Postman collection for testing all the API endpoints <a href= "">here</a>.</p>
 
 <h2>Contributing</h2>
 <p>Feel free to fork this repository, submit issues, and pull requests. For major changes, please open an issue first to discuss what you would like to change.</p>
