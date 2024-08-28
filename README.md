@@ -127,21 +127,7 @@
 <h2>Database Schema (ER Diagram)</h2>
 <p>Here's a basic ER diagram representing the relationships between the entities in the database:</p>
 <p>Working on it. </p>
-<!-- <pre>
-+-----------------+          +-----------------+
-|     User        |          |       Job        |
-|-----------------|          |-----------------|
-| _id (Primary)   |  <---->  | _id (Primary)    |
-| name            |          | title            |
-| email           |          | company          |
-| password        |          | location         |
-| resume          |          | jobType          |
-|                 |          | experienceRequired |
-+-----------------+          | compensation     |
-                             | description      |
-                             | employer (Foreign)|
-                             +-----------------+
-</pre> -->
+
 
 
 <h2>Postman API Collection</h2>
