@@ -20,6 +20,9 @@
     <li><strong>Employer Profile Management:</strong> Employers can create profiles, add, view, edit, and delete job postings.</li>
     <li><strong>Applicant Tracking for Employers:</strong> Employers can view all applicants for their job postings and filter applicants based on various criteria.</li>
     <li><strong>Enhanced Filtering Categories:</strong> Enhanced job filtering capabilities by adding more intuitive categories to the job descriptions in the JSON file.</li>
+    <li>
+        <strong>Rate Limiting: Implemented rate limiting to protect the APIs from abuse and ensure fair usage.
+    </li>
     <li><strong>Resume Upload:</strong> Upload resumes to Cloudinary and associate them with user profiles.</li>
 </ul>
 
@@ -123,7 +126,8 @@
 
 <h2>Database Schema (ER Diagram)</h2>
 <p>Here's a basic ER diagram representing the relationships between the entities in the database:</p>
-<pre>
+<p>Working on it. </p>
+<!-- <pre>
 +-----------------+          +-----------------+
 |     User        |          |       Job        |
 |-----------------|          |-----------------|
@@ -137,7 +141,7 @@
                              | description      |
                              | employer (Foreign)|
                              +-----------------+
-</pre>
+</pre> -->
 
 
 <h2>Postman API Collection</h2>
