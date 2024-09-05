@@ -9,6 +9,8 @@
 
 <h1>Job Portal Backend (Work in Progress )</h1>
 <p>This project is a backend service for a Job Portal application. It provides RESTful APIs for managing job listings, user profiles, and resume uploads. The application is built with Node.js, Express, and MongoDB.</p>
+<h2>Postman API Collection</h2>
+<p>You can find the Postman collection for testing all the API endpoints <a href= "https://www.postman.com/security-physicist-61325734/workspace/job-portal">here</a>.</p>
 
 <h2>Features</h2>
 <ul>
@@ -130,8 +132,7 @@
 
 
 
-<h2>Postman API Collection</h2>
-<p>You can find the Postman collection for testing all the API endpoints <a href= "https://www.postman.com/security-physicist-61325734/workspace/job-portal">here</a>.</p>
+
 
 <h2>Contributing</h2>
 <p>Feel free to fork this repository, submit issues, and pull requests. For major changes, please open an issue first to discuss what you would like to change.</p>
