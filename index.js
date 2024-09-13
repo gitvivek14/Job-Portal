@@ -6,7 +6,7 @@ const PORT  = process.env.PORT || 4000;
 app.get('/',(req,res)=>{
     return res.json({
         success:true,
-        message:'Welcome to the SERVER ->  Validation with Zod 👊',
+        message:'Welcome to the SERVER User ->  Validation with Zod 👊',
     })
 })
 
